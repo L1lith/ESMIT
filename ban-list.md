@@ -64,6 +64,8 @@ Anyone whose work involves the following fields are banned:
 
 ## Companies & Entities
 Anyone working for or in conjunction with the following companies & entities are banned:
+- The Latter Day Saints/Mormons
+- Scientology
 - Twitter/X
 - Tesla, Inc.
 - Taliban
@@ -71,6 +73,7 @@ Anyone working for or in conjunction with the following companies & entities are
 - Uber
 - Walmart
 - Microsoft
+- Amazon
 - IBM
 - Boeing
 - Starbucks
