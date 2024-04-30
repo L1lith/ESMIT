@@ -13,4 +13,4 @@ assignees: ''
 
 ## Links to supporting evidence
 
-## Were they using any Software licensed under the ESMIT? (optional)
+## Were they using any Software licensed under the ESMIT?
