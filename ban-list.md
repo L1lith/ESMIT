@@ -58,6 +58,9 @@ Anyone whose work involves the following fields are banned:
 - Zionism, Nazism, and other supremacy groups
 - Cultism/Religious Extremism (LDS, Jehova's Witnesses, Scientology, etc)
 - Multi-level Marketing
+- Law Enforcement
+- Surveillance
+- Data Brokering
 
 ## Companies & Entities
 Anyone working for or in conjunction with the following companies & entities are banned:
