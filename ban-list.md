@@ -131,4 +131,4 @@ Anyone working for or in conjunction with the following companies & entities are
 - BlackRock
 
 ## Notice
-If you would like to be unbanned you can make your appeal [here.](https://github.com/L1lith/ESMIT/blob/master/ban-list.md)
+If you would like to be unbanned you can make your appeal [here.](https://github.com/L1lith/ESMIT/issues/new?assignees=&labels=&projects=&template=ban-appeal.md&title=Ban+Appeal+for+%5BName%5D)
