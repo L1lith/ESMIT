@@ -1,7 +1,7 @@
 ---
-name: Ban Request for [Name]
+name: Ban Request
 about: 'Request an addition to the ban list '
-title: ''
+title: Ban Request for [Name]
 labels: ''
 assignees: ''
 
