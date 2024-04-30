@@ -128,4 +128,4 @@ Anyone working for or in conjunction with the following companies & entities are
 - BlackRock
 
 ## Notice
-If you are banned and would like to be unbanned, please open an issue proving why you are not violating the terms of the license and arguing why I should unban you.
+If you would like to be unbanned you can make your appeal [here.](https://github.com/L1lith/ESMIT/blob/master/ban-list.md)
