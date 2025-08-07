@@ -2,7 +2,7 @@
 The following is a non exhaustive list of entities that are banned from using this software (or any derivative of it)
 
 ## Government Entities
-Anyone working for or in conjunction with the following governments are banned:
+Anyone working for or in direct conjunction with the following governments are banned:
 - The United States
 - North Korea
 - China
@@ -25,14 +25,12 @@ Anyone working for or in conjunction with the following governments are banned:
 - Malaysia
 - Tunisia
 - Tanzania
-- Russia
 - Kuwait
 - Israel
 - Brunei
 - Uganda
 - United Arab Emirates
 - Malawi
-- South Sudan
 - Ethiopia
 - Egypt
 - Iran
@@ -77,7 +75,6 @@ Anyone working for or in conjunction with the following companies & entities are
 - IBM
 - Boeing
 - Starbucks
-- Johnson & Johnson
 - Macy's
 - Target
 - Motorola
@@ -127,7 +124,6 @@ Anyone working for or in conjunction with the following companies & entities are
 - Exxon Mobil Corporation
 - Citigroup Inc.
 - BP p.l.c.
-- Walmart Inc.
 - BlackRock
 
 ## Notice
