@@ -55,8 +55,8 @@ Anyone whose work involves the following fields are banned:
 - Weapons or Drugs Manufacturing (including Pharmaceuticals)
 - Policing
 - Monopolization
-- Zionism, Nazism, and other supremacy groups
-- Cultism/Religious Extremism (LDS, Jehova's Witnesses, Scientology, etc)
+- Anything involving Zionism, Nazis, and other supremacy/bigotry groups
+- Cultism/Religious Extremism (LDS/Mormon, Jehova's Witnesses, Scientology, etc)
 - Multi-level Marketing
 - Law Enforcement
 - Surveillance
